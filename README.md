@@ -64,7 +64,9 @@
 <a href="mailto:agustinakravsiuk@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
+<a href="https://wa.me/54927086898" target="_blank">
+<img src=https://img.shields.io/badge/whatsapp-%2324292e.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
+</a>
 </div>  
-  
 
 <br/>  
